@@ -15,19 +15,19 @@
 
 ---
 
-## 🧑‍🎓 Student
+## 📚 Course Experiments
 
-**Ishan Jha**  
-**Roll No: 2401010022**
+### **Experiment-1: Portfolio Website**
+Personal portfolio website with sections for About, Skills, Projects, and Contact. Includes basic JavaScript interactivity and optional contact form.
 
----
+### **Experiment-2: Company Landing Page**
+Modern business landing page with Hero section, Services, Testimonials, and Contact information. Clean, professional design.
 
-## 📚 Projects
+### **Experiment-3: Interactive Quiz**
+Dynamic quiz application with multiple-choice questions, score tracking, and result display. Features restart functionality.
 
-- **Portfolio** - Personal website showcasing skills and work
-- **Company Landing Page** - Modern business website with responsive design
-- **Interactive Quiz** - Engaging quiz platform with JavaScript
-- **To-Do App** - Task management application with Flask backend
+### **Experiment-4: To-Do List Application**
+Dynamic to-do list with add, edit, delete functionalities. Includes task completion tracking with visual indicators.
 
 ---
 
@@ -56,4 +56,9 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Web%20Programming%20Even%20Sem%202026&fontSize=24&fontAlignY=70" width="100%" />
+  
+  <br>
+  
+  **Ishan Jha**  
+  **Roll No: 2401010022**
 </div>
