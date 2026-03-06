@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Programming;Full+Stack+Development" alt="Typing SVG" />
   
   <p>
-    <img src="https://img.shields.io/badge/Spring%202025-📅-brightgreen?style=flat-square" alt="Spring 2025" />
+    <img src="https://img.shields.io/badge/Spring%202025-📅-brightgreen?style=flat-square" alt="Even Sem 2026" />
     <img src="https://img.shields.io/badge/Status-🟢%20Active-success?style=flat-square" alt="Active" />
   </p>
 </div>
